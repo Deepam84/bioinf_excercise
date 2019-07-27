@@ -1,2 +1,2 @@
-# bioinf_excercise
-Bioinformatics exercises
+# Bioinformatics tutorial
+Bioinformatics practice
