@@ -1,2 +1,2 @@
 # Bioinformatics tutorial
-Bioinformatics practice
+Bioinformatics practice questions
